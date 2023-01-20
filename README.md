@@ -8,7 +8,7 @@ Add the following dependencies to your project:
 
 org.json
 Verify that the file path in the following line of code is correct and points to the location of the data.json file on your machine:
-FileReader reader = new FileReader("/Users/ameennoor/Documents/exercises-main/exercise-02/data/data.json");
+Ex: FileReader reader = new FileReader("/Users/ameennoor/Documents/exercises-main/exercise-02/data/data.json");
 
 Run the main method of the class and the program will prompt you to select an option from 0-5.
 
