@@ -2,7 +2,7 @@
 
 Open Eclipse and create a new Java project.
 
-Copy the provided Java code and paste it into a new class in the project.
+Copy the provided Java code in Exercise02_ Solution Folder and paste it into a new class in the project.
 
 Add the following dependencies to your project:
 
